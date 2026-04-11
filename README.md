@@ -1,6 +1,6 @@
 # 📊 GitHub Stats:
 
-<h1 align="center">Hi 👋, I'm Anshu Bongade</h1>
+<h1 align="left">Hi 👋, I'm Anshu Bongade</h1>
 <h3 align="center">IT student passionate about Full Stack Web Development, AI/ML, and App Development, focused on building practical and user-friendly solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
