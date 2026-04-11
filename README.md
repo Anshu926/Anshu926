@@ -16,7 +16,7 @@ Currently gaining hands-on experience in building responsive and user-focused we
 - Learning AI/ML concepts and real-world applications  
 - Exploring mobile app development  
 
-⭐ **Goal:**  
+⭐  **Goal:**  
 To become a versatile developer capable of building efficient and impactful web, mobile, and AI-driven applications that solve real-world problems.
 
 ---
