@@ -12,7 +12,7 @@ Information Technology (IT) student passionate about Full Stack Web Development,
 
 <p align="left">
 📧 Email: anshubongade@gmail.com <br>
-📱 Mobile: +91-73850 65507
+📱 Mobile: +91-73850-65507
 </p>
 
 ---
